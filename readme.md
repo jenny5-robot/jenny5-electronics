@@ -2,7 +2,7 @@
 
 ## Arm electronic
 
-Currently is built around the [Pololu A-Star 32U4 Mini](https://www.pololu.com/product/3104) board.
+Currently is built around the [Pololu A-Star 32U4 Mini](https://www.pololu.com/product/3145) board.
 
 It can control 6 bipolar stepper motors (through A4988 driver) and read several sensors (six AS5147 connected through SPI).
 
